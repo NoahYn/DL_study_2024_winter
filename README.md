@@ -8,7 +8,7 @@
 - [실습] 기본 파이썬 문법 실습
 ### Meetup #1 CNN 기초
 - Convolutional Neural Network(CNN)의 기초
-- 1. 4가지 CNN 살펴보기: AlexNET, VGG, GoogLeNet, ResNet
+- 4가지 CNN 살펴보기: AlexNET, VGG, GoogLeNet, ResNet
 - [실습] 이미지 처리 실습하기
 - [실습] MNIST 데이터셋 사용법 익혀보기
 ### Meetup #2 딥러닝 기초
