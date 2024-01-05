@@ -1,10 +1,9 @@
 # DL_study_2024_winter
 
 ## Syllabus
-### Meetup #0 오리엔테이션 및 기본 개념 소개
-- 딥러닝 & 딥러닝 개발 도구
+### [Meetup #0 OT & Course Overview](https://www.youtube.com/watch?v=jfkc8KUy7xk&t=2055s)
+- 연구실 연구 주제 소개
 - 앞으로 우리가 다뤄볼 내용들
-- 기계 학습 용어 정리
 - [실습] 기본 파이썬 문법 실습
 ### Meetup #1 CNN 기초
 - Convolutional Neural Network(CNN)의 기초
