@@ -44,9 +44,10 @@
 - Generative Adversarial Network
 ---
 ### References
-논문으로 짚어보는 딥러닝의 맥 : https://www.edwith.org/deeplearningchoi/joinLectures/10979
+- [논문으로 짚어보는 딥러닝의 맥](https://www.edwith.org/deeplearningchoi/joinLectures/10979)
 ---
 Next study -> 
-Neuro4ML : https://www.youtube.com/playlist?list=PL09WqqDbQWHErc8xOyWdKpNEk78Jjk0EL
-Bayesian DL : https://www.edwith.org/bayesiandeeplearning
-Probablisitc DL with TF2 : https://www.coursera.org/learn/probabilistic-deep-learning-with-tensorflow2/home/welcome
+[Neuro4ML](https://www.youtube.com/playlist?list=PL09WqqDbQWHErc8xOyWdKpNEk78Jjk0EL) |
+[Bayesian DL](https://www.edwith.org/bayesiandeeplearning)
+|
+[Probablisitc DL with TF2](https://www.coursera.org/learn/probabilistic-deep-learning-with-tensorflow2/home/welcome)
