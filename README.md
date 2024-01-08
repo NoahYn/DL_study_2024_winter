@@ -48,3 +48,6 @@ Next study ->
 [Bayesian DL](https://www.edwith.org/bayesiandeeplearning)
 |
 [Probablisitc DL with TF2](https://www.coursera.org/learn/probabilistic-deep-learning-with-tensorflow2/home/welcome)
+
+### 참고자료
+kias 인공지능 시리즈 - [1.퍼셉트론-UAT](https://horizon.kias.re.kr/17443/)
