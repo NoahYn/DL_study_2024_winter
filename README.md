@@ -1,6 +1,10 @@
 # DL_study_2024_winter
 [강의영상](https://www.youtube.com/playlist?list=PL1704OiR_xHDLrdV61nKF9O9KzmYuqWSD)
 
+시간 : 매주 수요일 16시~17시
+
+장소 : 새빛관 915호
+
 ## Syllabus
 ---
 ### [Meetup #0 OT & Course Overview](https://www.youtube.com/watch?v=jfkc8KUy7xk&t=2055s)
