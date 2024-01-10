@@ -13,9 +13,10 @@
 - [실습] 기본 파이썬 문법 실습
 ---
 
-### Meetup #1 CNN 기초
+### [Meetup #1 CNN](https://youtu.be/exON5n17GrE)
 - Convolutional Neural Network(CNN)의 기초
 - 4가지 CNN 살펴보기: AlexNET, VGG, GoogLeNet, ResNet
+- [실습] 1x1 convolution 계산해보기. 3x3과 5x5 receptive field 관점에서 계산해보기.
 - [실습] 이미지 처리 실습하기
 - [실습] MNIST 데이터셋 사용법 익혀보기
 ---
@@ -23,6 +24,7 @@
 - Overfitting을 막는 regularization
 - Optimization 방법론
 - Restricted Boltzmann Machine
+- [실습] perceptron 2개로 xor 구현하고, 그 의미에 대해 생각해보기.
 - [실습] 기본 Tensorflow 문법 실습
 - [실습] Logistic Regression으로 숫자 분류기를 구현하기
 - [실습] Multilayer Perceptron(MLP) 로 숫자 분류기 구현하기
